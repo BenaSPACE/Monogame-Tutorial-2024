@@ -24,3 +24,5 @@ C:\Users\BenaS\Documents\My Games\Monogame Projects\Monogame tutorial\Tut\Tut\ob
 C:\Users\BenaS\Documents\My Games\Monogame Projects\Monogame tutorial\Tut\Tut\obj\Debug\net8.0\Tut.genruntimeconfig.cache
 C:\Users\BenaS\Documents\My Games\Monogame Projects\Monogame tutorial\Tut\Tut\obj\Debug\net8.0\ref\Tut.dll
 C:\Users\BenaS\Documents\My Games\Monogame Projects\Monogame tutorial\Tut\Tut\bin\Debug\net8.0\Content\derf.xnb
+C:\Users\BenaS\Documents\My Games\Monogame Projects\Monogame tutorial\Tut\Tut\obj\Debug\net8.0\Tut.sourcelink.json
+C:\Users\BenaS\Documents\My Games\Monogame Projects\Monogame tutorial\Tut\Tut\bin\Debug\net8.0\Content\charaset.xnb

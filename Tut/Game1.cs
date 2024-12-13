@@ -30,7 +30,9 @@ public class Game1 : Game
     {
         _spriteBatch = new SpriteBatch(GraphicsDevice);
 
-        derf = Content.Load<Texture2D>("derf");
+        // derf = Content.Load<Texture2D>("derf");
+        derf = Content.Load<Texture2D>("charaset");
+
 
         sprite = new ScaledSprite(derf, new Vector2(100, 100), new Vector2(100, 200));
 
@@ -43,6 +45,10 @@ public class Game1 : Game
             Exit();
 
         sprite.position.X += 1;
+        if (Keyboard.GetState().IsKeyDown(Keys.Space))
+        {
+            sprite.position.X -=1;
+        }
 
         // TODO: Add your update logic here
 
